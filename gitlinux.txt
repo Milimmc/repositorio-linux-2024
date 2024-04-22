@@ -1,0 +1,2 @@
+esto es un archivo de texto por primera ves en linux con una modificacion
+este cambio se hizo en la rama develovop
